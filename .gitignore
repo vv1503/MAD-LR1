@@ -1,0 +1,21 @@
+# Large raw data (download from UCI instead)
+data_raw.csv
+data/
+*.zip
+*.7z
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Temp extractions
+extracted_*.txt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
